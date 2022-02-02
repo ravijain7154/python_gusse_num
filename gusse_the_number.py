@@ -16,5 +16,6 @@ while True:
 		 print("congrates you won!!! you complet the task in" , count , "stseps\n you have left the chance", num_gusses)
 		 break
 	elif num_gusses ==0 :  
-         print("game over!!") 
+         print("game over!!")
+	 break
 		 
